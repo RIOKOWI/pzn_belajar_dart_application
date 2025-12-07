@@ -20,3 +20,13 @@ IMPORT AS
 - ketika menggunakan import As, maka kita wajib menggunakan prefix/alias tersebut sebelum memanggil function atau class yang terdpat di packages tersebut.
 
 contoh di file :
+lib\pzn_belajar_dart_application.dart
+lib\import_as.dart
+
+## COMPILE
+
+DART PLATFORM
+- teknologi compiler dart memungkinkan kita menjalankan aplikasi dengan beberapa cara
+- Native Platform, untuk aplikasi dengan target perangkat mobile atau desktop. Dart menyertakan Dart VM dengan just-in-time (JIT) compilation dan ahead-of-time(AOT) untuk memproduksi kode mesin
+- web Platform, untuk aplikasi dengan target web, Dart menyertakan development time controller(dartdevc) dan production time compiler (dart2js), keduanya melakukan kompilasi dari kode Dart ke JavaScript.
+- di sini kita bahas dart native platfor dengan target perangkat desktop
