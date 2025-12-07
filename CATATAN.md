@@ -30,3 +30,7 @@ DART PLATFORM
 - Native Platform, untuk aplikasi dengan target perangkat mobile atau desktop. Dart menyertakan Dart VM dengan just-in-time (JIT) compilation dan ahead-of-time(AOT) untuk memproduksi kode mesin
 - web Platform, untuk aplikasi dengan target web, Dart menyertakan development time controller(dartdevc) dan production time compiler (dart2js), keduanya melakukan kompilasi dari kode Dart ke JavaScript.
 - di sini kita bahas dart native platfor dengan target perangkat desktop
+
+CROSS PLATFORM SYSTEM
+- Dart tidak mendukung kompilasi untuk target sistem operasi berbeda.
+- oleh karena itu, jika kita ingin membuat distribusi file untuk sistem operasi berbeda, maka kita harus melakukannya di sistem operasi tersebu, misal mac untuk mac, linux untuk linux, dan windows untuk windows
