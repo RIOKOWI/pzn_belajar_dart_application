@@ -7,3 +7,8 @@ DOWNLOAD DEPENDENCY
 - setelah kita tambahkan dependency di file pubspec.yaml, selanjutnya kita perlu download dependency tersebut ke local kita dengan perintah :
     dart pub get
 - semua dependency akan di download ke local di folder HOME/pub-cache/
+
+
+## IMPORT
+
+- setelah kita menambah dan download depedency ke aplikasi, selanjutnya kita bisa gunakan library depedency tersebut menggunakan import.
