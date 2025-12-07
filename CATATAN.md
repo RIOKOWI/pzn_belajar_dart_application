@@ -12,3 +12,11 @@ DOWNLOAD DEPENDENCY
 ## IMPORT
 
 - setelah kita menambah dan download depedency ke aplikasi, selanjutnya kita bisa gunakan library depedency tersebut menggunakan import.
+
+IMPORT AS
+- kadang saat melakukan import beberapa packages, ada kalanya terdapat conflict, misal ada function dengan nama yang sama, atau class dengan nama yang sama
+- pada kasus seperti ini, salah satu hal yang cocok adalah membuat prefix untuk packages yang kita import
+- untuk menambah prefix atau alias, kita bisa gunakan kata kunci as diikuti nama prefix/alias nya setelah import
+- ketika menggunakan import As, maka kita wajib menggunakan prefix/alias tersebut sebelum memanggil function atau class yang terdpat di packages tersebut.
+
+contoh di file :
