@@ -34,3 +34,8 @@ DART PLATFORM
 CROSS PLATFORM SYSTEM
 - Dart tidak mendukung kompilasi untuk target sistem operasi berbeda.
 - oleh karena itu, jika kita ingin membuat distribusi file untuk sistem operasi berbeda, maka kita harus melakukannya di sistem operasi tersebu, misal mac untuk mac, linux untuk linux, dan windows untuk windows
+
+DART COMPILE
+- untuk melakukan kompilasi kode program kita menjadi distribusi file aplikasi desktop, kita bisa menggunakan perintah :
+
+dart compile exe file.dart -o fileoutput
