@@ -39,3 +39,6 @@ DART COMPILE
 - untuk melakukan kompilasi kode program kita menjadi distribusi file aplikasi desktop, kita bisa menggunakan perintah :
 
 dart compile exe file.dart -o fileoutput
+
+contoh di file :
+app
