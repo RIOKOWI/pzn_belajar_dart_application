@@ -10,10 +10,10 @@ publish_to: none
 # Add regular dependencies here.
 dependencies:
   path: ^1.9.0
-  pzn_belajar_dart_packages:
+  pzn_belajar_dart_library:
     git: 
-      url: https://github.com/RIOKOWI/pzn_belajar_dart_packages.git
-      ref: 1.0.0
+      url: https://github.com/RIOKOWI/pzn_belajar_dart_library.git
+      ref: v1.0.1
 
 dev_dependencies:
   lints: ^6.0.0

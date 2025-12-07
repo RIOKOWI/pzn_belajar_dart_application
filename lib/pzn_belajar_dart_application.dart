@@ -1,3 +1,1 @@
-int calculate() {
-  return 6 * 7;
-}
+import 'package:pzn_belajar_dart_library/hello.dart';
