@@ -212,11 +212,10 @@ packages:
   pzn_belajar_dart_library:
     dependency: "direct main"
     description:
-      path: "."
-      ref: "v1.5.0"
-      resolved-ref: "2c0c7e3dcee7f8a05f86ddbb19bac12c8de8f31c"
-      url: "https://github.com/RIOKOWI/pzn_belajar_dart_library.git"
-    source: git
+      name: pzn_belajar_dart_library
+      sha256: c3ebed1fc07a5e937fd653310ff4a5ed08876add1128c59748a3828bd05f6b25
+      url: "https://pub.dev"
+    source: hosted
     version: "1.5.0"
   shelf:
     dependency: transitive

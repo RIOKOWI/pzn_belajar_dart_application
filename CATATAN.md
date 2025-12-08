@@ -44,3 +44,5 @@ contoh di file :
 app
 
 ## UPGRADE PACKAGES
+
+dart pub upgrade
